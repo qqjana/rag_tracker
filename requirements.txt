@@ -1,0 +1,5 @@
+arxiv
+pandas
+python-dotenv
+requests
+beautifulsoup4
